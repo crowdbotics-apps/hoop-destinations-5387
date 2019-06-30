@@ -1,0 +1,3 @@
+rootProject.name = 'hoop_destinations_5387'
+
+include ':app'
